@@ -1,5 +1,5 @@
 {
-    "name": "metagento/lazyload-magento2",
+    "name": "metagento/lazy-load-magento2",
     "description":"This Magento 2 extension improve the load speed of your website by loading images with Lazy Load",
     "keywords": [
         "magento lazy load",
