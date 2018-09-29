@@ -1,6 +1,6 @@
 # Lazy Load extension for Magento 2 by Metagento
 
-##What is lazy loading?
+## What is lazy loading?
 
 Lazy loading is technique that defers loading of non-critical resources at page load time, this case it's product images. Lazy loading is a great way to optimize magento website speed and improve performace.
 
@@ -11,7 +11,7 @@ Our Lazy Load extension solves this problem which just loads images on customer 
 Beside improving the performance, it boost your website ranking on search engines, as well.
 
 
-##Install via Composer 
+## Install via Composer 
 
 ```
 composer require metagento/lazy-load-magento2:*
