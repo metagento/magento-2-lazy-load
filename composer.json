@@ -17,7 +17,7 @@
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
-        "OSC-3.0"
+        "OSL-3.0"
     ],
     "homepage": "https://www.metagento.com/",
     "authors": [
